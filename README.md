@@ -2,7 +2,7 @@
 
 冒泡排序、选择排序、插入排序、希尔排序、快速排序算法的Java实现。
 
-讲解见：[常见排序算法的原理及Java实现](https://www.eula.club/%E5%B8%B8%E8%A7%81%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E7%9A%84%E5%8E%9F%E7%90%86%E5%8F%8AJava%E5%AE%9E%E7%8E%B0.html)
+讲解见：[常见排序算法的原理及Java实现](https://www.eula.club/blogs/%E5%B8%B8%E8%A7%81%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E7%9A%84%E5%8E%9F%E7%90%86%E5%8F%8AJava%E5%AE%9E%E7%8E%B0.html)
 
 通过测试类，研究排序算法的时间复杂度。
 
